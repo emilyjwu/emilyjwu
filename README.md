@@ -1,10 +1,11 @@
 ### Hi, I'm Emily 👋🏼
 
-Welcome to my virtual code dump! I try things, break things, and occasionaly make something cool :)
+Welcome to my virtual code dump! I try things, break things, and occasionaly make something cool
+
 ---
 
 ### About Me
-- 🐝 I'm wrapping up my BS in Computer Science studies @ Georgia Tech
+- 🐝 I'm wrapping up my BS in Computer Science @ Georgia Tech
 - ✏️ I'm a Teaching Assitant for Data Structures & Algorithms
 - 👩🏻‍💻 Incoming Software Engineer @ Uber 
 - ⚡️ I enjoy taking film photos, training for marathons, and making Spotify playlists!
