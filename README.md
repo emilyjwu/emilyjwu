@@ -1,10 +1,9 @@
 ### Hi, I'm Emily 👋🏼
-The gist, I'm a 4th year Computer Science major at Georgia Tech🐝
 
 ---
 
 ### About Me
-- 🌱 I'm wrapping up my studies at Georgia Tech
+- 🐝 I'm wrapping up my studies at Georgia Tech
 - ✏️ I'm a Teaching Assitant for Data Structures & Algorithms
 - 🚘 Incoming Software Engineer at Uber 
 - ⚡️ In my free time, I enjoy taking film photos, training for marathons, and making Spotify playlists!
