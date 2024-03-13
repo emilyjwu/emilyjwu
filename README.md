@@ -8,7 +8,7 @@ Welcome to my virtual code dump! I try things, break things, and occasionaly mak
 - 🐝 I'm wrapping up my BS in Computer Science @ Georgia Tech
 - ✏️ I'm a Teaching Assitant for Data Structures & Algorithms
 - 👩🏻‍💻 Incoming Software Engineer @ Uber 
-- ⚡️ I enjoy taking film photos, training for marathons, and making Spotify playlists!
+- ⚡️ I enjoy taking film photos, training for (half) marathons, and making Spotify playlists!
 
 <!--
 **emilyjwu/emilyjwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
