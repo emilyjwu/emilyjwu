@@ -3,9 +3,9 @@
 ---
 
 ### About Me
-- 🐝 I study Computer Science at Georgia Tech
+- 🐝 I study Computer Science @ Georgia Tech
 - ✏️ I'm a Teaching Assistant for Data Structures & Algorithms
-- 👩🏻‍💻 Incoming Software Engineer at Uber 
+- 👩🏻‍💻 Incoming Software Engineer @ Uber 
 - ⚡️ I enjoy taking film photos, training for (half) marathons, and making Spotify playlists!
 
 <!--
